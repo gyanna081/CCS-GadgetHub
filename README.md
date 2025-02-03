@@ -3,7 +3,7 @@ A platform exclusively for CIT-U College of Computer Studies (CCS) students and 
 
 ## <u>TEAM MEMBERS:</u>  
 
-<strong>MEMBER 3</strong> <br>
+<strong>MEMBER 3</strong> <br><br>
 <strong>NAME:</strong> <u>MICA ELLA B. OBESO</u> <br>  
 <strong>COURSE & YEAR:</strong> <u>BSIT-4</u> <br><br>  
 
